@@ -20,7 +20,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```ruby
+PetersonViewTool::Renderer.copyright 'Amadeus Peterson', 'All rights reserved'
+```
 
 ## Development
 
